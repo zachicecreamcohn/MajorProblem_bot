@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/MajorProblem/__init__.py
+src/MajorProblem/pushshift.py
+src/MajorProblem_bot_zachicecreamcohn.egg-info/PKG-INFO
+src/MajorProblem_bot_zachicecreamcohn.egg-info/SOURCES.txt
+src/MajorProblem_bot_zachicecreamcohn.egg-info/dependency_links.txt
+src/MajorProblem_bot_zachicecreamcohn.egg-info/top_level.txt
