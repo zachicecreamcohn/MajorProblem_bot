@@ -1,0 +1,11 @@
+README
+pyproject.toml
+setup.cfg
+setup.py
+src/MajorProblem_bot/MajorProblem_bot.py
+src/MajorProblem_bot/__init__.py
+src/MajorProblem_bot.egg-info/PKG-INFO
+src/MajorProblem_bot.egg-info/SOURCES.txt
+src/MajorProblem_bot.egg-info/dependency_links.txt
+src/MajorProblem_bot.egg-info/requires.txt
+src/MajorProblem_bot.egg-info/top_level.txt
