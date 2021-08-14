@@ -4,7 +4,7 @@ setup(
   name = 'MajorProblem_bot',        
   packages = find_packages(where="src"),
   package_dir={'': 'src'},   
-  version = '0.0.1', license='MIT',        
+  version = '0.0.3', license='MIT',        
   description = 'Looks for Reddit comments containg "major problem" and replies with a proper salute and "MAJOR PROBLEM"',
   author = 'Zach Cohn',                  
   author_email = 'mypythonexperiments@gmail.com',
