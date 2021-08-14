@@ -8,7 +8,7 @@ import sys
 import pickledb
 
 def main():
-    time.sleep(600)
+    time.sleep(60)
     r = praw.Reddit('bot1')
     api = PushshiftAPI(r)
 
