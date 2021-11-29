@@ -21,4 +21,3 @@ Introducing...the silly Reddit bot that responds to comments that mention a "maj
     //////////////////     ...,,****/////////////
     /////////////////////////////////////////////
 
-"# MajorProblem_bot" 
